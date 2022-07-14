@@ -1,0 +1,239 @@
+#divTopoDireita {
+    font-size: 14px;
+}
+
+#navBarDireita {
+    margin-left: 200px;
+}
+
+#divTopoEsquerda {
+    font-size: 14px;
+}
+
+#imgJordan {
+    width: 23px;
+}
+
+/* navbar menu principal */
+#imgLogoHome {
+    width: 80px;
+    margin-top: 10px;
+}
+
+#divNavCentral {
+    margin-top: 25px;
+
+}
+
+#divBusca {
+    margin-top: 18px;
+    margin-left: 90px;
+}
+
+#navMenu {
+    margin-left: 260px;
+}
+
+#menuOfertasVestuario {
+    margin-left: -167px;
+}
+
+#menuOfertasVestuario,
+#menuLancamentos,
+#menuFeminino,
+#menuMasculino,
+#menuInfantil,
+#menuSnkrsmenu,
+#menuOfertas {
+    margin-right: 1px;
+
+}
+
+#txtBusca {
+    margin-top: 20px;
+    border: solid, 1px;
+    background-color: transparent;
+}
+
+#divSlide {
+    background-color: rgb(229, 224, 224);
+}
+
+#imgCapa,
+#imgCapa2,
+#imgCapa3 {
+    margin-top: -15px;
+    width: 80%;
+    height: 70%;
+}
+
+#botaoJunte {
+    color: #FFF;
+    background-color: black;
+    border: none;
+    height: 35px;
+    line-height: 15px;
+    padding: 0 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+#botaoVerProdutos {
+    color: #FFF;
+    background-color: black;
+    border: none;
+    height: 35px;
+    line-height: 15px;
+    padding: 0 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+#imgCorredores {
+
+    width: 500px;
+    height: 700px;
+}
+
+#imgCorredores3 {
+    width: 500px;
+    height: 700px;
+    margin-left: 85px;
+}
+
+#imgOfertasHome {
+    width: 1490px;
+    text-align: center;
+}
+
+#ate50Off {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+
+}
+
+#icons {
+    margin-right: 15px;
+
+}
+
+#textoRodape {
+    font-size: 13px;
+}
+
+#imgNikeLaranja {
+    width: 80px;
+    margin-top: 10px;
+}
+
+#botaoCadastre {
+    margin-top: 5px;
+    color: orangered;
+    background-color: black;
+    border: auto;
+    border-color: orangered;
+    height: 35px;
+    line-height: 15px;
+    padding: 0 15px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 5px;
+}
+
+#divJunteanos {
+    background-color: beige;
+    margin-top: -15px;
+
+}
+
+#imgJunte {
+    margin-top: 120px;
+    width: 30%;
+    height: 20%;
+}
+
+#botaoFaleConosco {
+    color: orangered;
+    border: 2px;
+    border-color: #FFF;
+}
+
+#topF {
+    margin-top: 58px;
+}#topF2 {
+    margin-top: 34px;
+}
+
+#vestF {
+    margin-top: 33px;
+}
+
+#vestuarioCorrecao {
+    margin-top: -24px;
+}
+
+#divJunte {
+    margin-left: 120px;
+}
+
+#lanc {
+    margin-top: 10px;
+}
+
+#botaoCompre {
+    color: #FFF;
+    background-color: black;
+    border: none;
+    height: 35px;
+    line-height: 15px;
+    padding: 0 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #22a022;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: larger;
+    border-radius: 30px;
+}
+
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+.zoom {
+    transition: transform .2s;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.4);
+}
+
+#divTenis {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#contagem {
+    color: red;
+}
